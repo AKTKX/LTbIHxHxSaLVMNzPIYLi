@@ -1,1 +1,1 @@
-print("XD")
+print("ZA DARMO NIC NIE MA")
