@@ -1,1 +1,1 @@
-print("ZA DARMO NIC NIE MA")
+print("ZA DARMO NIC NIE MA / KUP NA XOCODE.DEV")
